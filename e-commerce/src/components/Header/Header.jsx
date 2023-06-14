@@ -11,9 +11,7 @@ export const Header = () => {
                 <img src={Logo} alt="Logo"/>
             </a>
             <h1>NavBar</h1>
-            <hr/>
         </div>
-        
     );
 };
 
